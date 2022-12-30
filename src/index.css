@@ -17,6 +17,13 @@
 * {
   scroll-behavior: smooth;
 }
+div,
+img,
+section,
+p {
+  /* border: 0.1px solid white; */
+}
+/* Ellipse 2333 */
 
 .text-gradient {
   background: radial-gradient(
